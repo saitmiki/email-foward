@@ -1,0 +1,1 @@
+This function will foward email to other email address
